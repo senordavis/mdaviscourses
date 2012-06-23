@@ -1,14 +1,12 @@
+/* Original Stacey CSS with few changes */
 /* Colours */
 
 body, a { color: #222; }
 
 a { color: red; }
-a:hover { color: white; background-color: aqua; }
 
 em { color: #999; }
-
-em a { color: aqua; padding: 5px; }
-em a:hover { color: white; background-color: aqua; }
+em a { color: #666; }
 
 em.background { color: #BBB; }
 
