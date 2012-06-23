@@ -1,66 +1,75 @@
-/* Colours */
+/* !Typography */
 
-body, a { color: #222; }
-a { border-bottom: 1px solid #ccc; }
-em { color: #999; }
-em a { color: #666; }
-em.background { color: #BBB; }
+@font-face {
+    font-family: 'Proxima'; 
+    font-weight: normal;
+    src:url('./fonts/proximanova/proximanova-regular-webfont.eot');
+    src:url('./fonts/proximanova/proximanova-regular-webfont.eot?iefix') format('eot'),
+        url('./fonts/proximanova/proximanova-regular-webfont.woff') format('woff'),
+        url('./fonts/proximanova/proximanova-regular-webfont.ttf') format('truetype'),
+        url('./fonts/proximanova/proximanova-regular-webfont.svg#webfont2rpW2ohz') format('svg');
+    }
 
-/* Typography */
+@font-face {
+    font-family: 'Proxima';
+    font-style: italic;
+    src:url('./fonts/proximanova/proximanova-regitalic-webfont.eot');
+    src:url('./fonts/proximanova/proximanova-regitalic-webfont.eot?iefix') format('eot'),
+        url('./fonts/proximanova/proximanova-regitalic-webfont.woff') format('woff'),
+        url('./fonts/proximanova/proximanova-regitalic-webfont.ttf') format('truetype'),
+        url('./fonts/proximanova/proximanova-regitalic-webfont.svg#webfont2rpW2ohz') format('svg');
+    }
 
-body, input { font-family: "Helvetica", helvetica, "Helvetica Neue", arial, sans-serif; line-height: 1.3; }
-ul li, p, em { font-size: 13px; font-style: normal; letter-spacing: -0.01em; }
-h1, h2 { font-size: 13px; font-weight: normal; }
-a { text-decoration: none; }
+@font-face {
+    font-family: 'Proxima';
+    font-weight: bold;
+    src:url('./fonts/proximanova/proximanova-bold-webfont.eot');
+    src:url('./fonts/proximanova/proximanova-bold-webfont.eot?iefix') format('eot'),
+        url('./fonts/proximanova/proximanova-bold-webfont.woff') format('woff'),
+        url('./fonts/proximanova/proximanova-bold-webfont.ttf') format('truetype'),
+        url('./fonts/proximanova/proximanova-bold-webfont.svg#webfont2rpW2ohz') format('svg');
+    }
+    
+@font-face {
+    font-family: 'Proxima';
+    font-weight: bold;
+    font-style: italic;
+    src:url('./fonts/proximanova/proximanova-boldit-webfont.eot');
+    src:url('./fonts/proximanova/proximanova-boldit-webfont.eot?iefix') format('eot'),
+        url('./fonts/proximanova/proximanova-boldit-webfont.woff') format('woff'),
+        url('./fonts/proximanova/proximanova-boldit-webfont.ttf') format('truetype'),
+        url('./fonts/proximanova/proximanova-boldit-webfont.svg#webfont2rpW2ohz') format('svg');
+    }
 
-/* Layout */
+@font-face {
+    font-family: 'Proxima';
+    font-weight: 300;
+    src:url('/fonts/proximanova/proximanova-light-webfont.eot');
+    src:url('/fonts/proximanova/proximanova-light-webfont.eot?iefix') format('eot'),
+        url('/fonts/proximanova/proximanova-light-webfont.woff') format('woff'),
+        url('/fonts/proximanova/proximanova-light-webfont.ttf') format('truetype'),
+        url('/fonts/proximanova/proximanova-light-webfont.svg#webfont2rpW2ohz') format('svg');
+    }
 
-body { padding: 10px 0px 40px; text-align: center; }
-div#container { margin: 0px auto; width: 890px; padding: 5px 20px; text-align: left; 
-/*	background: url('/images/grid-bg.gif') 20px 0px;*/
+
+/* !Layout */
+
+body {
+	margin: 0px 0px 100px 0px;
+	padding: 0px;
 }
 
-.col { float: left; margin: 0px 0px 0px 20px; padding: 0px; }
-.col .col { margin: 0px; }
+header {
+	height: 70px;
+	background-color: black;
+	padding-top: 30px;
+}
 
-.one { width: 60px; }
-.two { width: 140px; }
-.three { width: 220px; }
-.four { width: 300px; }
-.five { width: 380px; }
-.six { width: 460px; }
-.seven { width: 540px; }
-.eight { width: 620px; }
-.nine { width: 700px; }
-.ten { width: 780px; }
-.eleven { width: 860px; }
-.twelve { width: 940px; }
-
-h1 em, h2 em { display: block; }
-
-p, h2 { margin: 0px 0px 5px; }
-hr { display: block; clear: both; margin: 0px 0px 30px; padding: 0px; height: 0px; overflow: hidden; visibility: hidden; }
-a img { border: 0px; }
-.col hr { margin: 0px 0px 15px; }
-
-h2 { overflow: hidden; }
-input#filter { display: inline; width: auto; padding: 1px 0px; border: 0px; background: #eee; font-size: inherit; color: inherit; }
-
-div#content ul.project-list { margin: 0px 0px 0px 20px; padding: 0px; list-style: none; width: 640px; }
-div#content ul.project-list li { margin: 0px 20px -1px 0px; float: left; }
-ul.project-list div.thumbnail a { border: 0px; }
-ul.project-list div.summary { margin: 0px 0px 0px 20px; }
-
-h2.title, div#content p.category, div#content ul.project-list li, div.description, p.para, div#images, div#media { border-top: 1px solid #ccc; padding: 20px 0px 0px; }
-div#content ul.project-list li { border-bottom: 1px solid #ccc; padding: 20px 0px; }
-
-div#media { overflow: hidden; }
-div.media { margin: 0px 0px 10px; }
-
-div#content div.description { margin: 0px 0px 0px 20px; }
-div.description div#media { margin: 0px 0px 10px; border: 0px; padding: 0px; }
-
-p#footer { margin: 0px 0px 0px 340px; display: inline; line-height: 1.4; }
-p#footer em { display: block; }
-
-a.atom-rss { margin: 0px 0px 0px 6px; padding: 2px 3px 0px; font-size: 0.93em; letter-spacing: 0.08em; background: #ddd; }
+.logo {
+	text-indent: -10000px;
+	width: 122px;
+	height: 80px;
+	display: block;
+	background: url(../../images/mdavisCourses-logo-white.png) top left no-repeat;
+	margin-top: -26px;
+}

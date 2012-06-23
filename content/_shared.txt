@@ -1,6 +1,6 @@
-name: Name
+name: M.Davis Courses
 -
-profession: Graphic Designer
+profession:
 -
 email: 
 <hi@yourdomain.com>

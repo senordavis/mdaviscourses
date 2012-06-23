@@ -3,28 +3,40 @@
 <html>
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<title>@name's Portfolio</title>
+		<title>@name | @title</title>
 		<link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
-		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="./public/docs/css/stacey.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		
+		<!--[if IE]>
+     		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    		<![endif]-->
+		 
 	</head>
 	<body>
-		<div id="container">
-			<h1 class="col two">
-				<a href="./">@name</a>
-				<em>@profession</em>
-			</h1>
-			<h2 class="col two">
-				Selected Projects
-				<em>(2001—2009)</em>
-			</h2>
-			<p class="col six"><em> :pages </em></p>
-			<hr>
+	
+		<header>
+			<div class="container">
+				<h1 class="col two">
+					<a href="./" class="logo">@name</a>
+				</h1>
+			
+				<p class="col six"><em>:pages</em></p>
+				
+			</div>
+		</header>
+	
+		<div class="container">
+			
 			<div id="content" class="home col eleven">
 				:category_lists
 			</div>
+			
 			<hr>
+
 			<p id="footer" class="col six">&copy; Copyright @name @current_year <a class="atom-rss" href="@root_path/?/feed/">RSS</a><br>
-				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+			<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em>
+			</p>
 		</div>
 	</body>
 </html>

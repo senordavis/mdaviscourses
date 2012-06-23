@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>M.Davis Courses | Contact</title>
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/stacey.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
+		
+		<!--[if IE]>
+     		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    		<![endif]-->
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<h1 class="col two">
+					<a href="./" class="logo">M.Davis Courses</a>
+				</h1>
+			
+				<p class="col six"><em>  
+  
+  
+      <a href="./?/about/">About</a>
+  
+      <a href="./?/contact/">Contact</a>
+  
+</em></p>
+				
+			</div>
+		</header>
+	
+		<div class="container">
+			
+			<div id="content" class="col eight">
+				<p class="para col two"><em class="background">&para;</em></p>
+				<div class="description col six">
+					<h2><a href="./">Contact</a></h2>
+					<div id="media">
+      	<div class="image">
+		<img src="./content/2.contact/01.jpg" alt="Contact" width="440" height="350">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
+
+<p>I can be contacted at: <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x68;&#105;&#x40;y&#111;&#x75;&#114;&#100;&#x6f;&#109;&#x61;i&#110;&#x2e;&#99;&#111;&#x6d;">&#x68;&#105;&#x40;y&#111;&#x75;&#114;&#100;&#x6f;&#109;&#x61;i&#110;&#x2e;&#99;&#111;&#x6d;</a>.</p>
+
+				</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 2b2466101889769945cf676932920255 -->
