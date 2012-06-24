@@ -36,139 +36,274 @@
 	
 		<div class="container">
 			
-			<div id="content" class="home col eleven">
-				     <p class="category col two"><em>Print</em></p>
-    <ul class="project-list col seven">
+			<div id="content" class="home">
+				     <div class="category">
+	<p><em>Print</em></p>
+    </div>
+    
+    <div>
+    <ul class="project-list ">
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/print/project-1/"><img src="./content/6.print/10.project-1/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/print/project-1/">
+    				<span class="title">The Test Project 1</span>
+    				<span class="description">magazine, illustration, sneakers, nike</span>
+    				<span class="date">2009, Jan–</span>
+    			</a>
+    			
+    			<img src="./content/6.print/10.project-1/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/print/project-1/">The Test Project 1</a></p>
     			<p><em>2009, Jan–</em></p>
-    			<p><em class="background">&ndash; magazine, illustration, sneakers, nike</em></p>
+    			<p><em class="background">magazine, illustration, sneakers, nike</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/print/project-name-2/"><img src="./content/6.print/9.project-name-2/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/print/project-name-2/">
+    				<span class="title">...Project 2</span>
+    				<span class="description"><p>typeface, modular, display face, unreleased, typography, experiment</p>
+</span>
+    				<span class="date">2009, Feb–</span>
+    			</a>
+    			
+    			<img src="./content/6.print/9.project-name-2/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/print/project-name-2/">...Project 2</a></p>
     			<p><em>2009, Feb–</em></p>
-    			<p><em class="background">&ndash; <p>typeface, modular, display face, unreleased, typography, experiment</p>
+    			<p><em class="background"><p>typeface, modular, display face, unreleased, typography, experiment</p>
 </em></p>
     		</div>
+-->
+    		
+    		
     	</li>
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/print/project-name-3/"><img src="./content/6.print/8.project-name-3/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/print/project-name-3/">
+    				<span class="title">The Test Project 3</span>
+    				<span class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volut.</span>
+    				<span class="date">June 24, 2012</span>
+    			</a>
+    			
+    			<img src="./content/6.print/8.project-name-3/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/print/project-name-3/">The Test Project 3</a></p>
-    			<p><em>2009, Aug–</em></p>
-    			<p><em class="background">&ndash; print, promotion, program, photography, found objects, performance, theatre</em></p>
+    			<p><em>June 24, 2012</em></p>
+    			<p><em class="background">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volut.</em></p>
     		</div>
-    	</li>
-        	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/print/swf-project-6/"><img src="./content/6.print/5.swf-project-6/thumb.jpg" alt=""></a>
-    		</div>
-    		<div class="summary col two">
-    			<p><a href="./?/print/swf-project-6/">The SWF Project 6</a></p>
-    			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">&ndash; SWF, print, poster, photography, party, flyer, promotion</em></p>
-    		</div>
+-->
+    		
+    		
     	</li>
     
     </ul>
-       <p class="category col two"><em>Web</em></p>
-    <ul class="project-list col seven">
+    </div>
+   
+       <div class="category">
+	<p><em>Web</em></p>
+    </div>
+    
+    <div>
+    <ul class="project-list ">
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/web/movie-project-2/"><img src="./content/5.web/9.movie-project-2/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/web/movie-project-2/">
+    				<span class="title">Movie Project 2</span>
+    				<span class="description">video, MOV, MP4, print, poster, photography, party, flyer, promotion</span>
+    				<span class="date">2009, Feb–</span>
+    			</a>
+    			
+    			<img src="./content/5.web/9.movie-project-2/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/web/movie-project-2/">Movie Project 2</a></p>
     			<p><em>2009, Feb–</em></p>
-    			<p><em class="background">&ndash; video, MOV, MP4, print, poster, photography, party, flyer, promotion</em></p>
+    			<p><em class="background">video, MOV, MP4, print, poster, photography, party, flyer, promotion</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/web/youtube-project-4/"><img src="./content/5.web/7.youtube-project-4/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/web/youtube-project-4/">
+    				<span class="title">Youtube Project 4—</span>
+    				<span class="description">youtube, poster, photography, party, flyer, promotion</span>
+    				<span class="date">2009, Dec–</span>
+    			</a>
+    			
+    			<img src="./content/5.web/7.youtube-project-4/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/web/youtube-project-4/">Youtube Project 4—</a></p>
     			<p><em>2009, Dec–</em></p>
-    			<p><em class="background">&ndash; youtube, poster, photography, party, flyer, promotion</em></p>
+    			<p><em class="background">youtube, poster, photography, party, flyer, promotion</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/web/vimeo-project-5/"><img src="./content/5.web/6.vimeo-project-5/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/web/vimeo-project-5/">
+    				<span class="title">The Vimeo Project 5</span>
+    				<span class="description">Vimeo, poster, photography, party, flyer, promotion</span>
+    				<span class="date">2009, Jun–</span>
+    			</a>
+    			
+    			<img src="./content/5.web/6.vimeo-project-5/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/web/vimeo-project-5/">The Vimeo Project 5</a></p>
     			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">&ndash; Vimeo, poster, photography, party, flyer, promotion</em></p>
+    			<p><em class="background">Vimeo, poster, photography, party, flyer, promotion</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/web/project-name-6/"><img src="./content/5.web/5.project-name-6/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/web/project-name-6/">
+    				<span class="title">The Longer Project Name 6</span>
+    				<span class="description">print, poster, opulent, party, flyer, A3, junk, collection</span>
+    				<span class="date">2009, Jun–</span>
+    			</a>
+    			
+    			<img src="./content/5.web/5.project-name-6/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/web/project-name-6/">The Longer Project Name 6</a></p>
     			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">&ndash; print, poster, opulent, party, flyer, A3, junk, collection</em></p>
+    			<p><em class="background">print, poster, opulent, party, flyer, A3, junk, collection</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
     
     </ul>
-       <p class="category col two"><em>Other</em></p>
-    <ul class="project-list col seven">
+    </div>
+   
+       <div class="category">
+	<p><em>Other</em></p>
+    </div>
+    
+    <div>
+    <ul class="project-list ">
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/other/mixed-media-project-7/"><img src="./content/4.other/4.mixed-media-project-7/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/other/mixed-media-project-7/">
+    				<span class="title">The Mixed Media Project 7</span>
+    				<span class="description">assorted, youtube, vimeo, SWF, VIMEO, mov, mp4, images</span>
+    				<span class="date">2009, Jun–</span>
+    			</a>
+    			
+    			<img src="./content/4.other/4.mixed-media-project-7/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/other/mixed-media-project-7/">The Mixed Media Project 7</a></p>
     			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">&ndash; assorted, youtube, vimeo, SWF, VIMEO, mov, mp4, images</em></p>
+    			<p><em class="background">assorted, youtube, vimeo, SWF, VIMEO, mov, mp4, images</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/other/project-name-8/"><img src="./content/4.other/3.project-name-8/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/other/project-name-8/">
+    				<span class="title">The Test Project 8</span>
+    				<span class="description">print, poster, photography, party, flyer, promotion</span>
+    				<span class="date">2009, Jun–</span>
+    			</a>
+    			
+    			<img src="./content/4.other/3.project-name-8/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/other/project-name-8/">The Test Project 8</a></p>
     			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">&ndash; print, poster, photography, party, flyer, promotion</em></p>
+    			<p><em class="background">print, poster, photography, party, flyer, promotion</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
         	<li>
-    		<div class="thumbnail col two">
-    			<a href="./?/other/project-name-9/"><img src="./content/4.other/2.project-name-9/thumb.jpg" alt=""></a>
+    		<div class="thumbnail ">
+    			<a href="./?/other/project-name-9/">
+    				<span class="title">Project 9</span>
+    				<span class="description">print, poster, promotion, performance, theatre, casino, simulacrum</span>
+    				<span class="date">2009, Jun–</span>
+    			</a>
+    			
+    			<img src="./content/4.other/2.project-name-9/thumb.jpg" alt="">
     		</div>
-    		<div class="summary col two">
+    		
+    		
+    		<!--
+<div class="summary ">
     			<p><a href="./?/other/project-name-9/">Project 9</a></p>
     			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">&ndash; print, poster, promotion, performance, theatre, casino, simulacrum</em></p>
+    			<p><em class="background">print, poster, promotion, performance, theatre, casino, simulacrum</em></p>
     		</div>
+-->
+    		
+    		
     	</li>
     
     </ul>
+    </div>
+   
     
 			</div>
 			
-			<hr>
-
-			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+		</div>
+		
+		<footer>
+		
+			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012
+			
+			<a class="atom-rss" href="./?/feed/">RSS</a><br>
 			<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em>
 			</p>
-		</div>
+		
+		</footer>
+		
 	</body>
 </html>
-<!-- Stacey(2.3.0): 0437162f0ce710e6a86651e32660f292 -->
+<!-- Stacey(2.3.0): 8a4c5b0fef8b26fa72b29dd60b5f2b25 -->
