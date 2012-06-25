@@ -15,13 +15,13 @@
 	</head>
 	<body>
 		
-<header>
+		<header>
 			<div class="container">
-				<h1 class="col two">
+				<h1 class="col five">
 					<a href="./" class="logo">M.Davis Courses</a>
 				</h1>
 			
-				<p class="col six"><em>  
+				<p class="col seven"><em>  
   
   
       <a href="./?/about/">About</a>
@@ -33,25 +33,13 @@
 			</div>
 		</header>
 		
-		<div class="container">
+		<div id="content" class="container" role="main">
 			
 			<div class="description col five">
-				<h1><a href="./">The Test Project 3</a></h1>
-				<p><em>June 24, 2012</em></p>
-				<p><em class="background">&ndash; Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volut.</em></p>
-				
-			<div class="col four">
-									  <p><a href="./?/print/project-1/">Next project</a>: &rarr; The Test Project 1</p>
-
-					  <p><a href="./?/print/project-name-2/">Previous project</a>: &larr; ...Project 2</p>
-
-				
-        <p id="project-count" class=""><em>&#8470;</em> 3/3</p>
-				
-
+				<h1>The Test Project 3</h1>
+				<p class="date">June 24, 2012</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volut.</p>
 			</div>
-				
-		</div>
 			
 			
 			<div id="gallery-info" class="col">
@@ -61,7 +49,7 @@
 				<div id="gallery-navigation"><p><em>&larr;</em> <a href="#" id="previous-image">Previous image</a> | <a href="#" id="next-image">Next image</a> <em>&rarr;</em></p></div>
 			</div>
         
-			<div id="content" class="col seven">
+			<div class="col seven">
 				<div id="media">
       	<div class="image">
 		<img src="./content/6.print/8.project-name-3/04.jpg" alt="The Test Project 3" width="540" height="430">
@@ -93,10 +81,22 @@
 
 			</div>
 			
-			<hr>
-			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
-				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
 		</div>
+
+		<hr class="push">
+
+		<footer>
+			<div class="container">
+				<span class="col five">Copyright &copy; 2012, M.Davis Courses, All Rights Reserved</span>
+			
+			
+				<span class="col five"><em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></span>
+				
+				
+				<span class="col two"><a class="atom-rss" href="./?/feed/">RSS</a></span>
+			</div>
+		
+		</footer>
 
 
 
@@ -109,4 +109,4 @@
     <script src="./public/docs/js/init-gallery.js" type="text/javascript" charset="utf-8"></script>
 	</body>
 </html>
-<!-- Stacey(2.3.0): 3aa8c91256cc52540d6399a3c94ef516 -->
+<!-- Stacey(2.3.0): 6a254c7b1147374825f072225d35d296 -->

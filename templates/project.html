@@ -15,35 +15,24 @@
 	</head>
 	<body>
 		
-<header>
+		<header>
 			<div class="container">
-				<h1 class="col two">
+				<h1 class="col five">
 					<a href="@root_path/" class="logo">@name</a>
 				</h1>
 			
-				<p class="col six"><em>:pages</em></p>
+				<p class="col seven"><em>:pages</em></p>
 				
 			</div>
 		</header>
 		
-		<div class="container">
+		<div id="content" class="container" role="main">
 			
 			<div class="description col five">
-				<h1><a href="@root_path/">@title</a></h1>
-				<p><em>@date</em></p>
-				<p><em class="background">&ndash; @keywords</em></p>
-				
-			<div class="col four">
-				if $siblings do
-					:next-page
-					:previous-page
-				endif
-        <p id="project-count" class=""><em>&#8470;</em> @index/@siblings_count</p>
-				
-
+				<h1>@title</h1>
+				<p class="date">@date</p>
+				<p>@keywords</p>
 			</div>
-				
-		</div>
 			
 			
 			<div id="gallery-info" class="col">
@@ -53,16 +42,28 @@
 				<div id="gallery-navigation"><p><em>&larr;</em> <a href="#" id="previous-image">Previous image</a> | <a href="#" id="next-image">Next image</a> <em>&rarr;</em></p></div>
 			</div>
         
-			<div id="content" class="col seven">
+			<div class="col seven">
 				:media
 				
 				@content
 			</div>
 			
-			<hr>
-			<p id="footer" class="col six">&copy; Copyright @name @current_year <a class="atom-rss" href="@root_path/?/feed/">RSS</a><br>
-				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
 		</div>
+
+		<hr class="push">
+
+		<footer>
+			<div class="container">
+				<span class="col five">Copyright &copy; @current_year, @name, All Rights Reserved</span>
+			
+			
+				<span class="col five"><em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></span>
+				
+				
+				<span class="col two"><a class="atom-rss" href="@root_path/?/feed/">RSS</a></span>
+			</div>
+		
+		</footer>
 
 
 

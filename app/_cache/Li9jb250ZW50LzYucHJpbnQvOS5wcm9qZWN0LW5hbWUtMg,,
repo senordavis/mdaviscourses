@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<title>M.Davis Courses | ...Project 2</title>
+		<title>M.Davis Courses | The Test Project 3</title>
 		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
 		<link rel="stylesheet" href="./public/docs/css/stacey.css" type="text/css" media="screen"> 
 		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen">
@@ -15,13 +15,13 @@
 	</head>
 	<body>
 		
-<header>
+		<header>
 			<div class="container">
-				<h1 class="col two">
+				<h1 class="col five">
 					<a href="./" class="logo">M.Davis Courses</a>
 				</h1>
 			
-				<p class="col six"><em>  
+				<p class="col seven"><em>  
   
   
       <a href="./?/about/">About</a>
@@ -33,55 +33,38 @@
 			</div>
 		</header>
 		
-		<div class="container">
+		<div id="content" class="container" role="main">
 			
 			<div class="description col five">
-				<h1><a href="./">...Project 2</a></h1>
-				<p><em>2009, Feb–</em></p>
-				<p><em class="background">&ndash; <p>typeface, modular, display face, unreleased, typography, experiment</p>
-</em></p>
-				
-			<div class="col four">
-                        <p><a href="./?/print/project-name-3/">Next project</a>: &rarr; The Test Project 3</p>
-
-              <p><a href="./?/print/project-1/">Previous project</a>: &larr; The Test Project 1</p>
-
-          
-          
-        <p id="project-count" class=""><em>&#8470;</em> 2/3</p>
-        
-        
-        <p id="gallery-count" class="">
-          <em>&#8470;</em> <span>1/1</span>
-        </p>
-        
-        
-        
-        </div>
-				
+				<h1>The Test Project 3</h1>
+				<p class="date">June 24, 2012</p>
+				<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volut.</p>
 			</div>
 			
 			
-<div id="gallery-navigation" class="col">
-<p><em>&larr;</em> <a href="#" id="previous-image">Previous image</a> | <a href="#" id="next-image">Next image</a> <em>&rarr;</em></p>
-</div>
+			<div id="gallery-info" class="col">
+				<p id="gallery-count" class="">
+					<em>&#8470;</em> <span>1/1</span>
+				</p>
+				<div id="gallery-navigation"><p><em>&larr;</em> <a href="#" id="previous-image">Previous image</a> | <a href="#" id="next-image">Next image</a> <em>&rarr;</em></p></div>
+			</div>
         
-			<div id="content" class="col seven">
+			<div class="col seven">
 				<div id="media">
       	<div class="image">
-		<img src="./content/6.print/9.project-name-2/04.jpg" alt="...Project 2" width="540" height="430">
+		<img src="./content/6.print/9.project-name-2/04.jpg" alt="The Test Project 3" width="540" height="430">
     
 	</div>
 	<div class="image">
-		<img src="./content/6.print/9.project-name-2/03.jpg" alt="...Project 2" width="540" height="450">
+		<img src="./content/6.print/9.project-name-2/03.jpg" alt="The Test Project 3" width="540" height="450">
     
 	</div>
 	<div class="image">
-		<img src="./content/6.print/9.project-name-2/02.jpg" alt="...Project 2" width="540" height="430">
+		<img src="./content/6.print/9.project-name-2/02.jpg" alt="The Test Project 3" width="540" height="430">
     
 	</div>
 	<div class="image">
-		<img src="./content/6.print/9.project-name-2/01.jpg" alt="...Project 2" width="540" height="430">
+		<img src="./content/6.print/9.project-name-2/01.jpg" alt="The Test Project 3" width="540" height="430">
     
 	</div>
 
@@ -98,10 +81,22 @@
 
 			</div>
 			
-			<hr>
-			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
-				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
 		</div>
+
+		<hr class="push">
+
+		<footer>
+			<div class="container">
+				<span class="col five">Copyright &copy; 2012, M.Davis Courses, All Rights Reserved</span>
+			
+			
+				<span class="col five"><em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></span>
+				
+				
+				<span class="col two"><a class="atom-rss" href="./?/feed/">RSS</a></span>
+			</div>
+		
+		</footer>
 
 
 
@@ -114,4 +109,4 @@
     <script src="./public/docs/js/init-gallery.js" type="text/javascript" charset="utf-8"></script>
 	</body>
 </html>
-<!-- Stacey(2.3.0): a6c2d129676c05ecc05a23bee4528466 -->
+<!-- Stacey(2.3.0): 98d904b0a1a51329e9fc72a403c809e2 -->

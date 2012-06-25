@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 
-  <title>M.Davis Courses's Portfolio Feed</title>
+  <title>M.Davis Courses's Feed</title>
   <subtitle></subtitle>
   <link href="http://localhost:8888/mdaviscourses/?/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
   <link href="http://localhost:8888/mdaviscourses/" hreflang="en" rel="alternate" type="text/html"/>
   
-  <updated>2012-06-24T23:51:41+10:00</updated>
+  <updated>2012-06-25T14:16:21+10:00</updated>
   <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
 
   <author>
@@ -256,7 +256,7 @@
   <entry>
    <title>About</title>
    <id>tag:localhost:8888,2012:/?/about/</id>
-   <updated>2012-06-23T12:36:06+10:00</updated>
+   <updated>2012-06-25T14:12:39+10:00</updated>
    <summary>@page_description</summary>
    <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/about/" />
    <content type="xhtml" xml:lang="en">
@@ -275,7 +275,7 @@
   <entry>
    <title>Contact</title>
    <id>tag:localhost:8888,2012:/?/contact/</id>
-   <updated>2012-06-23T12:48:09+10:00</updated>
+   <updated>2012-06-25T14:11:39+10:00</updated>
    <summary>@page_description</summary>
    <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/contact/" />
    <content type="xhtml" xml:lang="en">
@@ -285,7 +285,8 @@
           
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
 
-<p>I can be contacted at: <a href="&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x74;&#38;#111;&#38;#x3a;&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;">&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;</a>.</p>
+<p>I can be contacted at: <p><a href="mail&#38;#116;&#38;#111;&#38;#58;&#38;#100;&#38;#97;&#38;#118;&#38;#105;&#38;#115;&#38;#103;&#38;#111;&#38;#109;&#38;#64;&#38;#108;&#38;#99;&#38;#99;&#38;#46;&#38;#101;&#38;#100;&#38;#117;">&#38;#100;&#38;#97;&#38;#118;&#38;#105;&#38;#115;&#38;#103;&#38;#111;&#38;#109;&#38;#64;&#38;#108;&#38;#99;&#38;#99;&#38;#46;&#38;#101;&#38;#100;&#38;#117;</a></p>
+.</p>
 
           
       </div>
@@ -295,4 +296,4 @@
 
 
 </feed>
-<!-- Stacey(2.3.0): 3aa8c91256cc52540d6399a3c94ef516 -->
+<!-- Stacey(2.3.0): e21bece1f76431eac813d1bcabbc5617 -->

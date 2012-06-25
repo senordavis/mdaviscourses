@@ -14,13 +14,14 @@
     		<![endif]-->
 	</head>
 	<body>
+	
 		<header>
 			<div class="container">
-				<h1 class="col two">
+				<h1 class="col five">
 					<a href="./" class="logo">M.Davis Courses</a>
 				</h1>
 			
-				<p class="col six"><em>  
+				<p class="col seven"><em>  
   
   
       <a href="./?/about/">About</a>
@@ -32,13 +33,15 @@
 			</div>
 		</header>
 	
-		<div class="container">
+		<div id="content" class="container" role="main">
 			
-			<div id="content" class="col eight">
-				<p class="para col two"><em class="background">&para;</em></p>
-				<div class="description col six">
-					<h2><a href="./">About</a></h2>
-					<div id="media">
+			<div class="description col five">
+				<h1>About</h1>
+				<p></p>
+			</div>
+				
+			<div class="col seven">
+				<div id="media">
   
   
   
@@ -47,16 +50,30 @@
   
   
 </div>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat. Vestibulum vulputate, erat a eleifend consequat, ipsum augue tincidunt sem, ac aliquet nibh magna nec nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum mattis tellus nec tortor blandit a tempor odio mollis.</p>
+					
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat. Vestibulum vulputate, erat a eleifend consequat, ipsum augue tincidunt sem, ac aliquet nibh magna nec nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum mattis tellus nec tortor blandit a tempor odio mollis.</p>
 
 <p>Nam ligula purus, fringilla ut accumsan non, sagittis id mi. Donec risus felis, hendrerit quis rhoncus egestas, laoreet non mi. Fusce in lorem non ipsum gravida lobortis a ut justo. Nam varius aliquet velit id viverra. Nunc bibendum mi ut ipsum blandit ultrices. Donec justo metus, varius id iaculis sed, ultricies lobortis eros. Curabitur sapien tortor, tempus sed varius sit amet, tempus a dui. Donec pharetra nibh et risus tincidunt molestie. Vivamus luctus posuere quam. Aliquam erat volutpat. Vivamus a neque at turpis hendrerit egestas quis vitae nisl.</p>
 
-				</div>
 			</div>
-			<hr>
-			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
-				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+				
 		</div>
+		
+		<hr class="push">
+			
+		<footer>
+			<div class="container">
+				<span class="col five">Copyright &copy; 2012, M.Davis Courses, All Rights Reserved</span>
+			
+			
+				<span class="col five"><em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></span>
+				
+				
+				<span class="col two"><a class="atom-rss" href="./?/feed/">RSS</a></span>
+			</div>
+		
+		</footer>
+
 	</body>
 </html>
-<!-- Stacey(2.3.0): 3aa8c91256cc52540d6399a3c94ef516 -->
+<!-- Stacey(2.3.0): 98d904b0a1a51329e9fc72a403c809e2 -->

@@ -3,4 +3,4 @@ name: M.Davis Courses
 profession:
 -
 email: 
-<hi@yourdomain.com>
+<davisgom@lcc.edu>

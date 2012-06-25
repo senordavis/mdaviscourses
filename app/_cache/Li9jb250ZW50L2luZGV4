@@ -18,11 +18,11 @@
 	
 		<header>
 			<div class="container">
-				<h1 class="col two">
+				<h1 class="col five">
 					<a href="./" class="logo">M.Davis Courses</a>
 				</h1>
 			
-				<p class="col six"><em>  
+				<p class="col seven"><em>  
   
   
       <a href="./?/about/">About</a>
@@ -61,37 +61,17 @@
     		</div>
     		
     		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/print/project-1/">The Test Project 1</a></p>
-    			<p><em>2009, Jan–</em></p>
-    			<p><em class="background">magazine, illustration, sneakers, nike</em></p>
-    		</div>
--->
-    		
-    		
     	</li>
         	<li>
     		<div class="thumbnail ">
     			<a href="./?/print/project-name-2/">
-    				<span class="title">...Project 2</span>
-    				<span class="description"><p>typeface, modular, display face, unreleased, typography, experiment</p>
-</span>
-    				<span class="date">2009, Feb–</span>
+    				<span class="title">The Test Project 3</span>
+    				<span class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volut.</span>
+    				<span class="date">June 24, 2012</span>
     			</a>
     			
     			<img src="./content/6.print/9.project-name-2/thumb.jpg" alt="">
     		</div>
-    		
-    		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/print/project-name-2/">...Project 2</a></p>
-    			<p><em>2009, Feb–</em></p>
-    			<p><em class="background"><p>typeface, modular, display face, unreleased, typography, experiment</p>
-</em></p>
-    		</div>
--->
     		
     		
     	</li>
@@ -105,15 +85,6 @@
     			
     			<img src="./content/6.print/8.project-name-3/thumb.jpg" alt="">
     		</div>
-    		
-    		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/print/project-name-3/">The Test Project 3</a></p>
-    			<p><em>June 24, 2012</em></p>
-    			<p><em class="background">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volut.</em></p>
-    		</div>
--->
     		
     		
     	</li>
@@ -139,15 +110,6 @@
     		</div>
     		
     		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/web/movie-project-2/">Movie Project 2</a></p>
-    			<p><em>2009, Feb–</em></p>
-    			<p><em class="background">video, MOV, MP4, print, poster, photography, party, flyer, promotion</em></p>
-    		</div>
--->
-    		
-    		
     	</li>
         	<li>
     		<div class="thumbnail ">
@@ -161,15 +123,6 @@
     		</div>
     		
     		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/web/youtube-project-4/">Youtube Project 4—</a></p>
-    			<p><em>2009, Dec–</em></p>
-    			<p><em class="background">youtube, poster, photography, party, flyer, promotion</em></p>
-    		</div>
--->
-    		
-    		
     	</li>
         	<li>
     		<div class="thumbnail ">
@@ -181,37 +134,6 @@
     			
     			<img src="./content/5.web/6.vimeo-project-5/thumb.jpg" alt="">
     		</div>
-    		
-    		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/web/vimeo-project-5/">The Vimeo Project 5</a></p>
-    			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">Vimeo, poster, photography, party, flyer, promotion</em></p>
-    		</div>
--->
-    		
-    		
-    	</li>
-        	<li>
-    		<div class="thumbnail ">
-    			<a href="./?/web/project-name-6/">
-    				<span class="title">The Longer Project Name 6</span>
-    				<span class="description">print, poster, opulent, party, flyer, A3, junk, collection</span>
-    				<span class="date">2009, Jun–</span>
-    			</a>
-    			
-    			<img src="./content/5.web/5.project-name-6/thumb.jpg" alt="">
-    		</div>
-    		
-    		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/web/project-name-6/">The Longer Project Name 6</a></p>
-    			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">print, poster, opulent, party, flyer, A3, junk, collection</em></p>
-    		</div>
--->
     		
     		
     	</li>
@@ -237,15 +159,6 @@
     		</div>
     		
     		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/other/mixed-media-project-7/">The Mixed Media Project 7</a></p>
-    			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">assorted, youtube, vimeo, SWF, VIMEO, mov, mp4, images</em></p>
-    		</div>
--->
-    		
-    		
     	</li>
         	<li>
     		<div class="thumbnail ">
@@ -257,15 +170,6 @@
     			
     			<img src="./content/4.other/3.project-name-8/thumb.jpg" alt="">
     		</div>
-    		
-    		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/other/project-name-8/">The Test Project 8</a></p>
-    			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">print, poster, photography, party, flyer, promotion</em></p>
-    		</div>
--->
     		
     		
     	</li>
@@ -281,15 +185,6 @@
     		</div>
     		
     		
-    		<!--
-<div class="summary ">
-    			<p><a href="./?/other/project-name-9/">Project 9</a></p>
-    			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">print, poster, promotion, performance, theatre, casino, simulacrum</em></p>
-    		</div>
--->
-    		
-    		
     	</li>
     
     </ul>
@@ -300,16 +195,21 @@
 			
 		</div>
 		
-		<footer>
+		<hr class="push">
 		
-			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012
+		<footer>
+			<div class="container">
+				<span class="col five">Copyright &copy; 2012, M.Davis Courses, All Rights Reserved</span>
 			
-			<a class="atom-rss" href="./?/feed/">RSS</a><br>
-			<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em>
-			</p>
+			
+				<span class="col five"><em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></span>
+				
+				
+				<span class="col two"><a class="atom-rss" href="./?/feed/">RSS</a></span>
+			</div>
 		
 		</footer>
 		
 	</body>
 </html>
-<!-- Stacey(2.3.0): 3aa8c91256cc52540d6399a3c94ef516 -->
+<!-- Stacey(2.3.0): 98d904b0a1a51329e9fc72a403c809e2 -->
