@@ -14,7 +14,8 @@
     		<![endif]--> 
 	</head>
 	<body>
-		<header>
+		
+<header>
 			<div class="container">
 				<h1 class="col two">
 					<a href="./" class="logo">M.Davis Courses</a>
@@ -34,6 +35,32 @@
 		
 		<div class="container">
 			
+			<div class="description col five">
+				<h1><a href="./">The Test Project 1</a></h1>
+				<p><em>2009, Jan–</em></p>
+				<p><em class="background">&ndash; magazine, illustration, sneakers, nike</em></p>
+				
+			<div class="col four">
+									  <p><a href="./?/print/project-name-2/">Next project</a>: &rarr; ...Project 2</p>
+
+					  <p><a href="./?/print/project-name-3/">Previous project</a>: &larr; The Test Project 3</p>
+
+				
+        <p id="project-count" class=""><em>&#8470;</em> 1/3</p>
+				
+
+			</div>
+				
+		</div>
+			
+			
+			<div id="gallery-info" class="col">
+				<p id="gallery-count" class="">
+					<em>&#8470;</em> <span>1/1</span>
+				</p>
+				<div id="gallery-navigation"><p><em>&larr;</em> <a href="#" id="previous-image">Previous image</a> | <a href="#" id="next-image">Next image</a> <em>&rarr;</em></p></div>
+			</div>
+        
 			<div id="content" class="col seven">
 				<div id="media">
       	<div class="image">
@@ -61,18 +88,25 @@
   
   
 </div>
-			</div>
-			<div class="description col three">
-				<p><a href="./">The Test Project 1</a></p>
-				<p><em>2009, Jan–</em></p>
-				<p><em class="background">&ndash; magazine, illustration, sneakers, nike</em></p>
+				
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 			</div>
+			
 			<hr>
 			<p id="footer" class="col six">&copy; Copyright M.Davis Courses 2012 <a class="atom-rss" href="./?/feed/">RSS</a><br>
 				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
 		</div>
+
+
+
+</div>
+    <script type="text/javascript" charset="utf-8">
+      document.getElementsByTagName('body')[0].className += ' js-enabled';
+    </script>
+    <script src="./public/docs/js/jquery-1.3.2.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/gallery.js" type="text/javascript" charset="utf-8"></script>
+    <script src="./public/docs/js/init-gallery.js" type="text/javascript" charset="utf-8"></script>
 	</body>
 </html>
-<!-- Stacey(2.3.0): 8a4c5b0fef8b26fa72b29dd60b5f2b25 -->
+<!-- Stacey(2.3.0): 3aa8c91256cc52540d6399a3c94ef516 -->

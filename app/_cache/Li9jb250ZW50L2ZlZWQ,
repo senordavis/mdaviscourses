@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>M.Davis Courses's Portfolio Feed</title>
+  <subtitle></subtitle>
+  <link href="http://localhost:8888/mdaviscourses/?/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://localhost:8888/mdaviscourses/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2012-06-24T23:51:41+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>M.Davis Courses</name>
+    <uri>http://localhost:8888/mdaviscourses</uri>
+  </author>
+
+  <id>tag:localhost:8888,2012:/?/feed/</id>
+  <rights>©2012 M.Davis Courses</rights>
+    <entry>
+   <title>Print</title>
+   <id>tag:localhost:8888,2012:/?/print/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/print/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>The Test Project 1</title>
+   <id>tag:localhost:8888,2012:/?/print/project-1/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/print/project-1/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.print/10.project-1/04.jpg" alt="04."/>
+  <img src="./content/6.print/10.project-1/03.jpg" alt="03."/>
+  <img src="./content/6.print/10.project-1/02.jpg" alt="02."/>
+  <img src="./content/6.print/10.project-1/01.jpg" alt="01."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>...Project 2</title>
+   <id>tag:localhost:8888,2012:/?/print/project-name-2/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/print/project-name-2/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.print/9.project-name-2/04.jpg" alt="04."/>
+  <img src="./content/6.print/9.project-name-2/03.jpg" alt="03."/>
+  <img src="./content/6.print/9.project-name-2/02.jpg" alt="02."/>
+  <img src="./content/6.print/9.project-name-2/01.jpg" alt="01."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Test Project 3</title>
+   <id>tag:localhost:8888,2012:/?/print/project-name-3/</id>
+   <updated>2012-06-24T23:51:41+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/print/project-name-3/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.print/8.project-name-3/04.jpg" alt="04."/>
+  <img src="./content/6.print/8.project-name-3/03.jpg" alt="03."/>
+  <img src="./content/6.print/8.project-name-3/02.jpg" alt="02."/>
+  <img src="./content/6.print/8.project-name-3/01.jpg" alt="01."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Web</title>
+   <id>tag:localhost:8888,2012:/?/web/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/web/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Movie Project 2</title>
+   <id>tag:localhost:8888,2012:/?/web/movie-project-2/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/web/movie-project-2/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Youtube Project 4—</title>
+   <id>tag:localhost:8888,2012:/?/web/youtube-project-4/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/web/youtube-project-4/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Vimeo Project 5</title>
+   <id>tag:localhost:8888,2012:/?/web/vimeo-project-5/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/web/vimeo-project-5/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Longer Project Name 6</title>
+   <id>tag:localhost:8888,2012:/?/web/project-name-6/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/web/project-name-6/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/5.web/5.project-name-6/04.jpg" alt="04."/>
+  <img src="./content/5.web/5.project-name-6/03.jpg" alt="03."/>
+  <img src="./content/5.web/5.project-name-6/02.jpg" alt="02."/>
+  <img src="./content/5.web/5.project-name-6/01.jpg" alt="01."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Other</title>
+   <id>tag:localhost:8888,2012:/?/other/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/other/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>The Mixed Media Project 7</title>
+   <id>tag:localhost:8888,2012:/?/other/mixed-media-project-7/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/other/mixed-media-project-7/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.other/4.mixed-media-project-7/3.jpg" alt="3."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>The Test Project 8</title>
+   <id>tag:localhost:8888,2012:/?/other/project-name-8/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/other/project-name-8/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.other/3.project-name-8/04.jpg" alt="04."/>
+  <img src="./content/4.other/3.project-name-8/03.jpg" alt="03."/>
+  <img src="./content/4.other/3.project-name-8/02.jpg" alt="02."/>
+  <img src="./content/4.other/3.project-name-8/01.jpg" alt="01."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Project 9</title>
+   <id>tag:localhost:8888,2012:/?/other/project-name-9/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/other/project-name-9/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/4.other/2.project-name-9/04.jpg" alt="04."/>
+  <img src="./content/4.other/2.project-name-9/03.jpg" alt="03."/>
+  <img src="./content/4.other/2.project-name-9/02.jpg" alt="02."/>
+  <img src="./content/4.other/2.project-name-9/01.jpg" alt="01."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>About</title>
+   <id>tag:localhost:8888,2012:/?/about/</id>
+   <updated>2012-06-23T12:36:06+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/about/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat. Vestibulum vulputate, erat a eleifend consequat, ipsum augue tincidunt sem, ac aliquet nibh magna nec nulla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum mattis tellus nec tortor blandit a tempor odio mollis.</p>
+
+<p>Nam ligula purus, fringilla ut accumsan non, sagittis id mi. Donec risus felis, hendrerit quis rhoncus egestas, laoreet non mi. Fusce in lorem non ipsum gravida lobortis a ut justo. Nam varius aliquet velit id viverra. Nunc bibendum mi ut ipsum blandit ultrices. Donec justo metus, varius id iaculis sed, ultricies lobortis eros. Curabitur sapien tortor, tempus sed varius sit amet, tempus a dui. Donec pharetra nibh et risus tincidunt molestie. Vivamus luctus posuere quam. Aliquam erat volutpat. Vivamus a neque at turpis hendrerit egestas quis vitae nisl.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Contact</title>
+   <id>tag:localhost:8888,2012:/?/contact/</id>
+   <updated>2012-06-23T12:48:09+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://localhost:8888/mdaviscourses/?/contact/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/2.contact/01.jpg" alt="01."/>
+
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et mauris eu magna convallis cursus. Pellentesque a justo nisl. Duis vel velit at libero ultricies consectetur. Ut sem libero, ornare in ullamcorper eget, molestie sit amet tellus. Aenean auctor porttitor consectetur. Aliquam erat volutpat.</p>
+
+<p>I can be contacted at: <a href="&#38;#109;&#38;#x61;&#38;#105;&#38;#108;&#38;#x74;&#38;#111;&#38;#x3a;&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;">&#38;#x68;&#38;#105;&#38;#x40;y&#38;#111;&#38;#x75;&#38;#114;&#38;#100;&#38;#x6f;&#38;#109;&#38;#x61;i&#38;#110;&#38;#x2e;&#38;#99;&#38;#111;&#38;#x6d;</a>.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+</feed>
+<!-- Stacey(2.3.0): 3aa8c91256cc52540d6399a3c94ef516 -->

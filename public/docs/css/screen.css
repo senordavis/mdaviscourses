@@ -3,6 +3,7 @@
 body {
 	margin: 0px 0px 100px 0px;
 	padding: 0px;
+	font-weight: 300;
 }
 
 header {
@@ -90,6 +91,9 @@ ul.project-list li {
 
 .summary {}
 
+#gallery-count {float: left;}
+
+#gallery-navigation {float: right;}
 
 /* !Colors */
 
@@ -113,6 +117,9 @@ a.logo:hover {
 	z-index: 10;
 	opacity: 0;
 	margin-left: 0px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
 }
 
 .thumbnail a:hover {
