@@ -37,6 +37,21 @@ div.container{
 	
 }
 
+#intro {
+	background-color: aqua;
+	height: 250px;
+	margin-top: -50px;
+	margin-bottom: -10px;
+	position: relative;
+	z-index: 100;
+}
+
+#intro p.description {
+	float: right;
+	width: 400px;
+	margin: 50px 0;
+}
+
 hr.push{
 	display: block;
 	height: 200px;
