@@ -16,10 +16,11 @@ body {
 
 header {
 	height: 70px;
-	background: url(../../images/black_denim.png) top left;
+	background: url(../../images/low_contrast_linen.png) top left;
 	background-color: black;
 	padding-top: 30px;
 	margin-bottom: 50px;
+	border-bottom: 2px solid black;
 }
 
 .logo {
@@ -38,12 +39,14 @@ div.container{
 }
 
 #intro {
-	background-color: aqua;
+	background: url(../../images/light_noise_diagonal.png) top left;
 	height: 250px;
 	margin-top: -50px;
 	margin-bottom: -10px;
 	position: relative;
 	z-index: 100;
+	border-bottom: 1px solid #CCC;
+	outline: 1px solid #EEE;
 }
 
 #intro p.description {
@@ -173,7 +176,7 @@ ul.project-list-footer li {
 
 
 footer {
-	background: url(../../images/fabric_1.png) top left;
+	background: url(../../images/light_noise_diagonal.png) top left;
 	clear: both;
 	position: absolute;
 	bottom: 0px;
@@ -182,6 +185,8 @@ footer {
 	padding-top: 25px;
 	font-size: .8em;
 	z-index: 10000;
+	border-top: 1px solid #CCC;
+	outline: 1px solid #EEE;
 }
 
 /*
