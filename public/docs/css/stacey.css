@@ -81,6 +81,7 @@ hr {
 
 a img {
 	border: 0px;
+	outline: 0px;
 }
 
 .col hr {
