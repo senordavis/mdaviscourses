@@ -2,18 +2,11 @@
 
 @mdavisblue: #4D90FE; 
 
-.boxSizing {
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
-	box-sizing: border-box;         /* Opera/IE 8+ */
-}
-
 .roundedCorners (@radius: 4px) {
-	border-radius: @radius;
 	-webkit-border-radius: @radius;
 	-moz-border-radius: @radius;
-	-ms-border-radius: @radius;
 	-o-border-radius: @radius;
+	border-radius: @radius;
 }
 
 /* !Layout */
@@ -94,24 +87,22 @@ ul.project-list {
 	display: block;
 	clear: both;
 	
-}
-
-ul.project-list li {
+	li {
 	width: 300px;
 	float: left;
 	display: block;
 	padding-bottom: 20px;
+}	
 }
+
 
 ul.project-list-footer {
 	display: block;
 	clear: both;
 	margin: 0;
 	padding: 0;
-	.boxSizing
-}
-
-ul.project-list-footer li {
+	
+	li {
 	float: left;
 	clear: both;
 	display: block;
@@ -120,9 +111,13 @@ ul.project-list-footer li {
 	padding: 2px;
 }
 
-ul.project-list-footer li a{
+li a{
 	padding: 5px;
 }
+
+}
+
+
 
 footer a {
 	padding: 5px;
@@ -138,7 +133,6 @@ footer a:hover{
 	clear: both;
 	width: 960px;
 	border-top: 1px solid #ccc;
-	.boxSizing
 }
 
 .category p {
@@ -155,12 +149,36 @@ footer a:hover{
 .thumbnail {
 	width: 300px;
 	height: 205px;
-	background: gray;
 }
 
 .thumbnail img {
 	position: absolute;
 	margin-top: -205px;
+	width: 300px;
+	height: 205px;
+	overflow: hidden;
+}
+.thumbnail a {
+	background-color: transparent;
+	display: block;
+	width: 260px;
+  	height: 165px;
+	padding: 20px;
+	position: relative;
+	z-index: 10;
+	opacity: 0;
+	margin-left: 0px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+
+.thumbnail a:hover {
+	background-color: rgba(0,0,0, 0.8);
+	display: block;
+	width: 260px;
+  	height: 165px;
+	opacity: 1;
 }
 
 .thumbnail a span.title {
@@ -261,31 +279,6 @@ a.logo:hover {
 	background-color: transparent;
 }
 
-.thumbnail a {
-	background-color: transparent;
-	display: block;
-	width: 300px;
-	height: 205px;
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
-	box-sizing: border-box;         /* Opera/IE 8+ */
-	padding: 20px;
-	position: relative;
-	z-index: 10;
-	opacity: 0;
-	margin-left: 0px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-}
-
-.thumbnail a:hover {
-	background-color: rgba(0,0,0, 0.8);
-	display: block;
-	width: 300px;
-	height: 205px;
-	opacity: 1;
-}
 
 header em a {
 	color: #AAA;

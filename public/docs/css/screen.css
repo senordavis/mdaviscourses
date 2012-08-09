@@ -1,15 +1,4 @@
 /* Less */
-.boxSizing {
-  -webkit-box-sizing: border-box;
-  /* Safari/Chrome, other WebKit */
-
-  -moz-box-sizing: border-box;
-  /* Firefox, other Gecko */
-
-  box-sizing: border-box;
-  /* Opera/IE 8+ */
-
-}
 /* !Layout */
 html,
 body {
@@ -88,15 +77,6 @@ ul.project-list-footer {
   clear: both;
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-  /* Safari/Chrome, other WebKit */
-
-  -moz-box-sizing: border-box;
-  /* Firefox, other Gecko */
-
-  box-sizing: border-box;
-  /* Opera/IE 8+ */
-
 }
 ul.project-list-footer li {
   float: left;
@@ -113,11 +93,10 @@ footer a {
   padding: 5px;
 }
 footer a:hover {
-  border-radius: 4px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
   -o-border-radius: 4px;
+  border-radius: 4px;
 }
 .category {
   height: 60px;
@@ -125,15 +104,6 @@ footer a:hover {
   clear: both;
   width: 960px;
   border-top: 1px solid #ccc;
-  -webkit-box-sizing: border-box;
-  /* Safari/Chrome, other WebKit */
-
-  -moz-box-sizing: border-box;
-  /* Firefox, other Gecko */
-
-  box-sizing: border-box;
-  /* Opera/IE 8+ */
-
 }
 .category p {
   padding: 20px 10px;
@@ -147,11 +117,34 @@ footer a:hover {
 .thumbnail {
   width: 300px;
   height: 205px;
-  background: gray;
 }
 .thumbnail img {
   position: absolute;
   margin-top: -205px;
+  width: 300px;
+  height: 205px;
+  overflow: hidden;
+}
+.thumbnail a {
+  background-color: transparent;
+  display: block;
+  width: 260px;
+  height: 165px;
+  padding: 20px;
+  position: relative;
+  z-index: 10;
+  opacity: 0;
+  margin-left: 0px;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+.thumbnail a:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  display: block;
+  width: 260px;
+  height: 165px;
+  opacity: 1;
 }
 .thumbnail a span.title {
   border-bottom: 1px solid white;
@@ -234,36 +227,6 @@ a:hover {
 a.logo:hover {
   background-color: transparent;
 }
-.thumbnail a {
-  background-color: transparent;
-  display: block;
-  width: 300px;
-  height: 205px;
-  -webkit-box-sizing: border-box;
-  /* Safari/Chrome, other WebKit */
-
-  -moz-box-sizing: border-box;
-  /* Firefox, other Gecko */
-
-  box-sizing: border-box;
-  /* Opera/IE 8+ */
-
-  padding: 20px;
-  position: relative;
-  z-index: 10;
-  opacity: 0;
-  margin-left: 0px;
-  -webkit-transition: all 0.5s ease;
-  -moz-transition: all 0.5s ease;
-  -o-transition: all 0.5s ease;
-}
-.thumbnail a:hover {
-  background-color: rgba(0, 0, 0, 0.8);
-  display: block;
-  width: 300px;
-  height: 205px;
-  opacity: 1;
-}
 header em a {
   color: #AAA;
   padding: 5px;
@@ -272,11 +235,10 @@ header em a {
 header em a:hover {
   color: white;
   background-color: #4d90fe;
-  border-radius: 4px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
   -o-border-radius: 4px;
+  border-radius: 4px;
 }
 h1 a:hover {
   background-color: transparent;
@@ -294,22 +256,20 @@ h1 a:hover {
   height: 48px;
   width: 48px;
   margin-right: 10px;
-  border-radius: 4px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
   -o-border-radius: 4px;
+  border-radius: 4px;
 }
 a.atom-rss {
   background-color: #999;
   font-weight: bold;
   color: white;
   padding: 5px;
-  border-radius: 4px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
   -o-border-radius: 4px;
+  border-radius: 4px;
 }
 a.atom-rss:hover {
   background-color: #4d90fe;
