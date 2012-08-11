@@ -37,7 +37,7 @@
         
 			<div class="col seven">
 				
-				<div class="slider-wrapper theme-default">
+				<div>
 					:media
 				</div>
 
@@ -56,14 +56,13 @@
 	  </div>
 	
 	<script src="@root_path/public/docs/js/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="@root_path/public/docs/js/jquery.nivo.slider.js"></script>
+    <script type="text/javascript" src="@root_path/public/docs/js/jquery.carousel.js"></script>
     <script type="text/javascript">
-    $(window).load(function() {
-        $('#media').nivoSlider({
-        	manualAdvance: true,
-        	effect: 'fade'
-        });
-    });
+    $('#carousel').carousel({
+	elements: {
+		
+	}
+});
     </script>
 	 
 	 <!-- 
